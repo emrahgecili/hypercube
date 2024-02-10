@@ -72,7 +72,7 @@ the G2 stage; STB1 encodes a protein that contributes to the regulation of SBF a
 target genes; expression is cell cycle-regulated in stages G1 and S. Our analysis resulted in
 more discoveries and all of these additional TFs have been reported as key cell cycle TFs in
 different stages. We refer to studies [3-6] for additional context on this genomic data and
-TFs.
+TFs. \par
 As aforementioned, our approach corroborated TFs that have been identified previously
 in the literature for the genomic data example. Note that, the choices of significance level
 and the dimension of the initial hypercube are not put forward as definitive; significance tests
