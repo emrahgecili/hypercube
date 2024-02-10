@@ -21,4 +21,4 @@ elements are 1 and off-diagonal elements are 0.1.
 5. The mean effect is fixed at 90, time effect is fixed at 0.15. Coefficient for signal variables is 5, and for noise variables is 0. So the coefficient setting for all predictors is {90, 0.15, 5, 5, 5, 5, 5, 0, 0, 0, ..., 0}, with first 5 variables are signal variables ('P1' ~ 'P5').
 6. Variance terms sigma^2 = 6, omega^2 = 125, tau^2 = 77.
 
-You can see the \bf{"Hypercube on Genomics.pdf"} file for Genomic data application.
+You can see the "Hypercube on Genomics.pdf" file for Genomic data application.
