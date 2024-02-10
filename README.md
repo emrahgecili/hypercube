@@ -26,7 +26,6 @@ elements are 1 and off-diagonal elements are 0.1.
 
 
 # Hypercubes to Identify Predictive Transcription Factors in a CD4 Yeast Cell-Cycle Genomics Data
-
 We adapted an existing statistical procedure [1], which arranges candidate variables in a
 k-dimensional hypercube (k ≤ 5), where the hypercube forms sets of variables for a multistage
 selection process. Although the approach is desirable, it is available currently for
