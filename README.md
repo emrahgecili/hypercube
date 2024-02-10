@@ -73,13 +73,14 @@ target genes; expression is cell cycle-regulated in stages G1 and S. Our analysi
 more discoveries and all of these additional TFs have been reported as key cell cycle TFs in
 different stages. We refer to studies [3-6] for additional context on this genomic data and
 TFs. \par
+
 As aforementioned, our approach corroborated TFs that have been identified previously
 in the literature for the genomic data example. Note that, the choices of significance level
 and the dimension of the initial hypercube are not put forward as definitive; significance tests
 were used informally as an aid to interpretation and are calibrated to decrease the number
 of candidate variables.
 
-![Caption for the picture.](https://github.com/emrahgecili/hypercube/blob/master/CD4_forest.jpeg)
+![Coefficient estimates and their 95% confidence intervals for select TFs.](https://github.com/emrahgecili/hypercube/blob/master/CD4_forest.jpeg)
 
 # References
 
