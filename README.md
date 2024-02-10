@@ -48,6 +48,7 @@ All the computations are implemented in R by using the code provided at GitHub p
 https://github.com/emrahgecili/hypercube.
 
 # CD4 Yeast Cell-Cycle Genomic Data Analysis
+
 We now performed our proposed method on a well-studied yeast cell-circle gene expression
 data [3-6]. The data were longitudinally collected mRNA gene expression levels in a yeast
 two cell-cycle period at M/G1-G1-S-G2-M stages. Transcription factors (TFs), which could
@@ -72,7 +73,6 @@ target genes; expression is cell cycle-regulated in stages G1 and S. Our analysi
 more discoveries and all of these additional TFs have been reported as key cell cycle TFs in
 different stages. We refer to studies [3-6] for additional context on this genomic data and
 TFs.
-
 As aforementioned, our approach corroborated TFs that have been identified previously
 in the literature for the genomic data example. Note that, the choices of significance level
 and the dimension of the initial hypercube are not put forward as definitive; significance tests
@@ -80,6 +80,7 @@ were used informally as an aid to interpretation and are calibrated to decrease 
 of candidate variables.
 
 # References
+
 [1] Cox DR, Battey HS. Large numbers of explanatory variables, a semi-descriptive analysis.
 Proc Natl Acad Sci U S A. 2017;114(32):8592-8595. doi:10.1073/pnas.1703764114 \par
 
