@@ -81,7 +81,7 @@ of candidate variables.
 
 # References
 [1] Cox DR, Battey HS. Large numbers of explanatory variables, a semi-descriptive analysis.
-Proc Natl Acad Sci U S A. 2017;114(32):8592-8595. doi:10.1073/pnas.1703764114
+Proc Natl Acad Sci U S A. 2017;114(32):8592-8595. doi:10.1073/pnas.1703764114 \par
 
 [2] Cheng Y, Brokamp C, Rasnick E, Kramer EL, Ryan P, Szczesniak RD, Gecili E.
 Hypercubes to Identify Place-Based Predictors of Rapid Cystic Fibrosis Lung Disease Progression.
