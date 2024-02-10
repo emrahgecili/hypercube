@@ -82,15 +82,20 @@ of candidate variables.
 # References
 [1] Cox DR, Battey HS. Large numbers of explanatory variables, a semi-descriptive analysis.
 Proc Natl Acad Sci U S A. 2017;114(32):8592-8595. doi:10.1073/pnas.1703764114
+
 [2] Cheng Y, Brokamp C, Rasnick E, Kramer EL, Ryan P, Szczesniak RD, Gecili E.
 Hypercubes to Identify Place-Based Predictors of Rapid Cystic Fibrosis Lung Disease Progression.
 XX (2024).
+
 [3] Banerjee N, Zhang MQ. Identifying cooperativity among transcription factors controlling
 the cell cycle in yeast. Nucleic Acids Res. 2003;31(23):7024-7031. doi:10.1093/nar/gkg894
+
 [4] Tsai HK, Lu HH, Li WH. Statistical methods for identifying yeast cell cycle transcription
 factors. Proc Natl Acad Sci U S A. 2005;102(38):13532-13537. doi:10.1073/pnas.0505874102
+
 [5] Wang L, Chen G, Li H. Group SCAD regression analysis for microarray time course
 gene expression data. Bioinformatics. 2007;23(12):1486-1494. doi:10.1093/bioinformatics/btm125
+
 [6] Gecili E, Sivaganesan S, Asar O, Clancy JP, Ziady A, Szczesniak RD. Bayesian regularization
 for a nonstationary Gaussian linear mixed effects model. Stat Med. 2022;41(4):681-
 697. doi:10.1002/sim.9279
