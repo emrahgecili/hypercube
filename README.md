@@ -45,7 +45,7 @@ highlighted in the literature for their importance as cell cycle transcription f
 Our methodology and details of prediction model are described in our main article [2]. The
 original article provides additional real data applications with several real cystic-fibrosis
 (CF) lung function and geomarker datasets and simulations for different data settings.
-All the computations are implemented in R by using the code provided at GitHub page:
+All the computations are implemented in R by using the code provided at this GitHub page:
 https://github.com/emrahgecili/hypercube.
 
 # CD4 Yeast Cell-Cycle Genomic Data Analysis
