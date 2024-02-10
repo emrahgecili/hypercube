@@ -79,7 +79,7 @@ and the dimension of the initial hypercube are not put forward as definitive; si
 were used informally as an aid to interpretation and are calibrated to decrease the number
 of candidate variables.
 
-![Caption for the picture.](/path/to/image.png)
+![Caption for the picture.](/path/to/CD4_forest.jpeg)
 
 # References
 
